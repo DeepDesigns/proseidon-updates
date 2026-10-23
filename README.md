@@ -1,2 +1,2 @@
 # proseidon-updates
-Downloads for Proseidon App
+Proseidon, the offline-first writing app
